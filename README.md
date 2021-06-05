@@ -4,7 +4,7 @@ I'm a graduate from the Flatiron School's Access Labs where I studied JavaScript
 
 Coding was always something that piqued my interest, even dabbling in HTML when I was a pre-teen. A friend of mine who had also attended Flatiron recommended the school to me. After taking the pre-coursework, I got hooked and wanted to immerse myself into the world completely. Graduated in late March 2020 and I am still learning as much as I can to keep myself sharp for the industry.
 
-I'm looking for opportunities! Please contact me using my LinkedIn or at radouanebahidev@gmail.com
+I'm looking for opportunities! Please contact me using my LinkedIn or at radbahi@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbahi)](https://github.com/radbahi/github-readme-stats)
 
