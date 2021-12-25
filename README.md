@@ -1,6 +1,6 @@
 ### Hi there, I'm Radouane Bahi 👋
 
-NOTE: The huge gap in GitHub activity over the summer is not real. I just haven't committed under my e-mail address as I reset my Macbook.
+NOTE: The huge gap in GitHub activity is not real. I just haven't committed under my e-mail address as I reset my Macbook.
 
 I'm a graduate from the Flatiron School's Access Labs where I studied JavaScript, React, Ruby, Rails, and Redux. My original pursuit was to be a police officer, but after I had gotten my Bachelor's in Criminal Justice from John Jay College, I realize just how limiting that career would have been. Working with code has allowed me to feel like I am contributing to something more than myself, that I am a part of this world's technological drive.
 
