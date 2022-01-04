@@ -10,8 +10,8 @@ I'm looking for opportunities! Please contact me using my LinkedIn or at radbahi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbahi)](https://github.com/radbahi/github-readme-stats)
 
-- 🔭 I’m currently working on a social media app using the MERNG stack
-- 🌱 I’m currently learning GraphQL
+- 🔭 I’m currently working on through a course on Udemy
+- 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on anything! Just shoot me a message here or connect on LinkedIn
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/radouane-bahi-5410a1137/)
 - 😄 Pronouns: He/Him
